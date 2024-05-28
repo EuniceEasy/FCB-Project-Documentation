@@ -7,5 +7,9 @@ This Data Analysis project aims to generate insight into the sales performance o
 google query sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION =NET
+
 ```
+
+
+![](hrugifqhju.jfif)
 
