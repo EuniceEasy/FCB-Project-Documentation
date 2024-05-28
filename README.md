@@ -12,4 +12,5 @@ WHERE CONDITION =NET
 
 
 ![](hrugifqhju.jfif)
+|-|-|-|
 
